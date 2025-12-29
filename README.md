@@ -49,3 +49,4 @@ The steps in this algorithm are:
 -	Merge the sentence to form a summary. This is done by combining the generated sentences, then greedily pulling out subjects to see if the sentence can be reduced. This step uses a natural language generation engine.
 
 This method captures the meaning of sentences by grammatical analysis which is why it is better than the automatic extraction approach. It can help in development of intelligent agents that gain better semantic knowledge of text.
+
